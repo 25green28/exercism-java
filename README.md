@@ -1,10 +1,7 @@
 # My solutions to the Java track on Exercism
 
----
-
 #### [Java on Exercism](https://exercism.org/tracks/java)
 
----
 
 This repository contains my solutions to the Java track on Exercism.
 
